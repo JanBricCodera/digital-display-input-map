@@ -1,0 +1,29 @@
+-g
+-AL 2
+-ra _INRAM01=0x000100/0x0008FF
+-ro _INROM01=0xFF0000/0xFFFFFF
+-check_rora
+-check_locate
+-rg 0
+-m "D:\jouet_bleu\Fujitsu_starter_kit\Fujitsu_starter_kit\CpE_426L\4DEFINAL\Debug\LST\4DEFINAL.mp1"
+-pl 60
+-pw 132
+-alin "D:\jouet_bleu\Fujitsu_starter_kit\Fujitsu_starter_kit\CpE_426L\4DEFINAL\Debug\LST"
+-alout "D:\jouet_bleu\Fujitsu_starter_kit\Fujitsu_starter_kit\CpE_426L\4DEFINAL\Debug\LST"
+-Xals
+-Xalr
+-na
+-w 1
+-cwno
+-a
+-cpu MB90F387
+-o "D:\jouet_bleu\Fujitsu_starter_kit\Fujitsu_starter_kit\CpE_426L\4DEFINAL\Debug\ABS\4DEFINAL.abs"
+
+"D:\jouet_bleu\Fujitsu_starter_kit\Fujitsu_starter_kit\CpE_426L\4DEFINAL\Debug\OBJ\_io_prl01.obj"
+"D:\jouet_bleu\Fujitsu_starter_kit\Fujitsu_starter_kit\CpE_426L\4DEFINAL\Debug\OBJ\_io_prl23.obj"
+"D:\jouet_bleu\Fujitsu_starter_kit\Fujitsu_starter_kit\CpE_426L\4DEFINAL\Debug\OBJ\_io_tmr.obj"
+"D:\jouet_bleu\Fujitsu_starter_kit\Fujitsu_starter_kit\CpE_426L\4DEFINAL\Debug\OBJ\_FFMC16.obj"
+"D:\jouet_bleu\Fujitsu_starter_kit\Fujitsu_starter_kit\CpE_426L\4DEFINAL\Debug\OBJ\main.obj"
+"D:\jouet_bleu\Fujitsu_starter_kit\Fujitsu_starter_kit\CpE_426L\4DEFINAL\Debug\OBJ\monitor16LX.obj"
+"D:\jouet_bleu\Fujitsu_starter_kit\Fujitsu_starter_kit\CpE_426L\4DEFINAL\Debug\OBJ\start905s.obj"
+

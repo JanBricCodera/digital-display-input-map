@@ -1,0 +1,15 @@
+-dt s,d,r,a
+-pl 60
+-pw 132
+-g
+-cwno
+-cpu MB90F387
+"D:\jouet_bleu\Fujitsu_starter_kit\Fujitsu_starter_kit\CpE_426L\4DEFINAL\Debug\ABS\4DEFINAL.abs"
+-a "D:\jouet_bleu\Fujitsu_starter_kit\Fujitsu_starter_kit\CpE_426L\4DEFINAL\Debug\OBJ\_io_prl01.obj"
+-a "D:\jouet_bleu\Fujitsu_starter_kit\Fujitsu_starter_kit\CpE_426L\4DEFINAL\Debug\OBJ\_io_prl23.obj"
+-a "D:\jouet_bleu\Fujitsu_starter_kit\Fujitsu_starter_kit\CpE_426L\4DEFINAL\Debug\OBJ\_io_tmr.obj"
+-a "D:\jouet_bleu\Fujitsu_starter_kit\Fujitsu_starter_kit\CpE_426L\4DEFINAL\Debug\OBJ\_FFMC16.obj"
+-a "D:\jouet_bleu\Fujitsu_starter_kit\Fujitsu_starter_kit\CpE_426L\4DEFINAL\Debug\OBJ\main.obj"
+-a "D:\jouet_bleu\Fujitsu_starter_kit\Fujitsu_starter_kit\CpE_426L\4DEFINAL\Debug\OBJ\monitor16LX.obj"
+-a "D:\jouet_bleu\Fujitsu_starter_kit\Fujitsu_starter_kit\CpE_426L\4DEFINAL\Debug\OBJ\start905s.obj"
+
